@@ -3,7 +3,7 @@
 This repository is for teaching at the FMV (GREZOSP) workshop. Students should
 clone the repo by running:
 
-git clone git@github.com:dhaine/swc-epi-r.git
+	git clone git@github.com:dhaine/swc-epi-r.git
 
 To help with issues navigating to the correct working directory, it also
 contains an RStudio project file. Thus students have the choice of either
